@@ -3,3 +3,6 @@ body,
 html {
   height: 100%;
 }
+body {
+  font-family: "Amazon Ember", "Arial", "Helvetica", sans-serif;
+}
